@@ -1,0 +1,29 @@
+PLINK v1.90b7.2 64-bit (11 Dec 2023)
+Options in effect:
+  --file ../data/maicesArtegaetal2015
+  --make-bed
+  --out ../data/mismaices
+
+Hostname: RAMM
+Working directory: /home/ramm/Curso/BioinfinvRepro/Unidad5/Prac_Uni5/maices/bin
+Start time: Sat Jan  6 21:16:13 2024
+
+Random number seed: 1704597373
+7781 MB RAM detected; reserving 3890 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (36931 variants, 165 people).
+--file: ../data/mismaices-temporary.bed + ../data/mismaices-temporary.bim +
+../data/mismaices-temporary.fam written.
+36931 variants loaded from .bim file.
+165 people (0 males, 0 females, 165 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to ../data/mismaices.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 165 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.990151.
+36931 variants and 165 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to ../data/mismaices.bed + ../data/mismaices.bim +
+../data/mismaices.fam ... done.
+
+End time: Sat Jan  6 21:16:13 2024

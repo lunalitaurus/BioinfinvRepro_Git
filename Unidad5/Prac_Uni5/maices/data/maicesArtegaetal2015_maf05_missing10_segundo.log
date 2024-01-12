@@ -1,0 +1,36 @@
+PLINK v1.90b7.2 64-bit (11 Dec 2023)
+Options in effect:
+  --file ../data/maicesArtegaetal2015
+  --maf 0.05
+  --mind 0.1
+  --out ../data/maicesArtegaetal2015_maf05_missing10_segundo
+  --recode
+
+Hostname: RAMM
+Working directory: /home/ramm/Curso/BioinfinvRepro/Unidad5/Prac_Uni5/maices/bin
+Start time: Mon Jan  8 23:22:33 2024
+
+Random number seed: 1704777753
+7781 MB RAM detected; reserving 3890 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (36931 variants, 165 people).
+--file: ../data/maicesArtegaetal2015_maf05_missing10_segundo-temporary.bed +
+../data/maicesArtegaetal2015_maf05_missing10_segundo-temporary.bim +
+../data/maicesArtegaetal2015_maf05_missing10_segundo-temporary.fam written.
+36931 variants loaded from .bim file.
+165 people (0 males, 0 females, 165 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to
+../data/maicesArtegaetal2015_maf05_missing10_segundo.nosex .
+0 people removed due to missing genotype data (--mind).
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 165 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.990151.
+4201 variants removed due to minor allele threshold(s)
+(--maf/--max-maf/--mac/--max-mac).
+32730 variants and 165 people pass filters and QC.
+Note: No phenotypes present.
+--recode ped to ../data/maicesArtegaetal2015_maf05_missing10_segundo.ped +
+../data/maicesArtegaetal2015_maf05_missing10_segundo.map ... done.
+
+End time: Mon Jan  8 23:22:33 2024

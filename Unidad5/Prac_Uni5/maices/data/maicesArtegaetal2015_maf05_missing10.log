@@ -1,0 +1,15 @@
+PLINK v1.90b7.2 64-bit (11 Dec 2023)
+Options in effect:
+  --file ../data/maicesArtegaetal2015_maf05_missing10
+  --hardy
+  --out ../data/maicesArtegaetal2015_maf05_missing10
+
+Hostname: RAMM
+Working directory: /home/ramm/Curso/BioinfinvRepro/Unidad5/Prac_Uni5/maices/bin
+Start time: Mon Jan  8 23:23:30 2024
+
+Random number seed: 1704777810
+7781 MB RAM detected; reserving 3890 MB for main workspace.
+Error: Failed to open ../data/maicesArtegaetal2015_maf05_missing10.map.
+
+End time: Mon Jan  8 23:23:30 2024

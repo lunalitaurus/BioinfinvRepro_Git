@@ -1,0 +1,16 @@
+PLINK v1.90b7.2 64-bit (11 Dec 2023)
+Options in effect:
+  --file text_fileset
+  --maf 0.05
+  --make-bed
+  --out binary_fileset
+
+Hostname: RAMM
+Working directory: /home/ramm/Curso/BioinfinvRepro/Unidad5/Prac_Uni5/maices/bin
+Start time: Sat Jan  6 21:13:09 2024
+
+Random number seed: 1704597189
+7781 MB RAM detected; reserving 3890 MB for main workspace.
+Error: Failed to open text_fileset.map.
+
+End time: Sat Jan  6 21:13:09 2024

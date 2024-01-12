@@ -1,0 +1,3 @@
+Hola mundo, este es un archivo escrito en nano. Un consejo importante:
+Este simbolito  ^ significa control en su teclado. 
+Es decir, con control X salgo y con control O guardo
